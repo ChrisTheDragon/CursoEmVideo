@@ -1,0 +1,5 @@
+José;35
+Maria;12
+Christian;24
+Carlos;10
+maria;85
